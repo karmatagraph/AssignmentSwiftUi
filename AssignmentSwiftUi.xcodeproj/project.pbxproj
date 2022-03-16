@@ -12,6 +12,7 @@
 		484AF28B27E0C74F00D4DB81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 484AF28A27E0C74F00D4DB81 /* Assets.xcassets */; };
 		484AF28E27E0C74F00D4DB81 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 484AF28D27E0C74F00D4DB81 /* Preview Assets.xcassets */; };
 		484AF29527E1B8C400D4DB81 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 484AF29427E1B8C400D4DB81 /* Course.swift */; };
+		484AF29727E1CF3D00D4DB81 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 484AF29627E1CF3D00D4DB81 /* ContentViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		484AF28A27E0C74F00D4DB81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		484AF28D27E0C74F00D4DB81 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		484AF29427E1B8C400D4DB81 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		484AF29627E1CF3D00D4DB81 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				484AF28A27E0C74F00D4DB81 /* Assets.xcassets */,
 				484AF28C27E0C74F00D4DB81 /* Preview Content */,
 				484AF29427E1B8C400D4DB81 /* Course.swift */,
+				484AF29627E1CF3D00D4DB81 /* ContentViewModel.swift */,
 			);
 			path = AssignmentSwiftUi;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				484AF29727E1CF3D00D4DB81 /* ContentViewModel.swift in Sources */,
 				484AF29527E1B8C400D4DB81 /* Course.swift in Sources */,
 				484AF28927E0C74D00D4DB81 /* ContentView.swift in Sources */,
 				484AF28727E0C74D00D4DB81 /* AssignmentSwiftUiApp.swift in Sources */,
